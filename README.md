@@ -11,5 +11,5 @@ Using Flask framework, created a simple to do list to keep yourself organised!
 
 `pip install flask` install flask
 
-## Other Languages
+## Languages
 I used python, sass css, html, and sql (SQLAlchemy)
